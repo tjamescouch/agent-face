@@ -1,0 +1,15 @@
+{
+  "name": "agent-face",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Real-time sentiment-to-face expression pipeline",
+  "main": "face.js",
+  "bin": {
+    "face": "./face.js"
+  },
+  "scripts": {
+    "test": "node --test face.test.js",
+    "train": "node face.js train",
+    "demo": "node face.js demo"
+  }
+}
