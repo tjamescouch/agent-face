@@ -1,5 +1,7 @@
 # agent-face
 
+> **Warning**: This project is experimental and under active development. APIs, protocols, and data formats may change without notice. Not recommended for production use.
+
 Real-time text sentiment to animated face expression pipeline, built from scratch with zero dependencies.
 
 ## Architecture
